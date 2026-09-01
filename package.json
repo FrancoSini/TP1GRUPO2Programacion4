@@ -1,0 +1,17 @@
+{
+  "name": "practica1-arrays-typescript",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Práctica 1 - TypeScript: tipos, arrays, callbacks, interfaces, clases, clases abstractas, herencia y polimorfismo",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "typescript": "^5.5.4",
+    "vitest": "^2.1.4"
+  }
+}
