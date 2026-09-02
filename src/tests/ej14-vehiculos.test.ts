@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, afterEach } from "vitest";
-import { Vehiculo, Auto, Moto, Camion } from "./ej14-vehiculos.js";
+import { Vehiculo, Auto, Moto, Camion } from "./../parte 3/ej14-vehiculos.js";
 
 afterEach(() => {
     vi.restoreAllMocks();

@@ -6,7 +6,7 @@ import {
     Efectivo,
     procesarPago,
     type MetodoPago,
-} from "./ej17-pagos.js";
+} from "./../parte 3/ej17-pagos.js";
 
 afterEach(() => {
     vi.restoreAllMocks();

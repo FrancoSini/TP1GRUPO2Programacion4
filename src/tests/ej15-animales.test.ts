@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, afterEach } from "vitest";
-import { Animal, Perro, Gato, Vaca, Pajaro, hacerSonidos } from "./ej15-animales.js";
+import { Animal, Perro, Gato, Vaca, Pajaro, hacerSonidos } from "./../parte 3/ej15-animales.js";
 
 afterEach(() => {
     vi.restoreAllMocks();

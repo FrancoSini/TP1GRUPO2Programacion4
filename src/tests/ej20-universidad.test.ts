@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { Persona, Materia, Alumno, Docente } from "./ej20-universidad.js";
+import { Persona, Materia, Alumno, Docente } from "./../parte 3/ej20-universidad.js";
 
 describe("Ejercicio 20 - Materia", () => {
     it("inscribirAlumno agrega un alumno a la lista", () => {

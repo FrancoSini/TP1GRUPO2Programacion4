@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { Personaje, Guerrero, Mago, Arquero } from "./ej19-personajes.js";
+import { Personaje, Guerrero, Mago, Arquero } from "./../parte 3/ej19-personajes.js";
 
 describe("Ejercicio 19 - Guerrero (ataque físico)", () => {
     it("hace daño igual a su ataque", () => {
