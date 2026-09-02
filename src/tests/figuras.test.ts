@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { Figura, Circulo, Rectangulo, Cuadrado } from "../parte 3/figuras.js";
+import { Figura, Circulo, Rectangulo, Cuadrado } from "../parte 2/figuras.js";
 
 describe("Ejercicio 12 - Circulo", () => {
     it("calcula el área correctamente", () => {

@@ -4,7 +4,7 @@ import {
     EmpleadoTiempoCompleto,
     EmpleadoMedioTiempo,
     EmpleadoPorComision,
-} from "../parte 3/empleados.js";
+} from "../parte 2/empleados.js";
 
 describe("Ejercicio 13 - EmpleadoTiempoCompleto", () => {
     it("cobra el sueldo básico", () => {
